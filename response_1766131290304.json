@@ -1,0 +1,1384 @@
+{
+  "analysis_id": "6fe42ab6-7b8d-4712-b443-a674c8381104",
+  "status": "completed",
+  "video_download_url": "/download/processed_6fe42ab6-7b8d-4712-b443-a674c8381104_3826855-hd_1920_1080_24fps.mp4",
+  "data": {
+    "total_frames_processed": 266,
+    "counts_timeseries": [
+      {
+        "time_sec": 0,
+        "count": 1,
+        "avg_weight_proxy": 199728
+      },
+      {
+        "time_sec": 0.04,
+        "count": 1,
+        "avg_weight_proxy": 200736
+      },
+      {
+        "time_sec": 0.08,
+        "count": 1,
+        "avg_weight_proxy": 200164
+      },
+      {
+        "time_sec": 0.12,
+        "count": 1,
+        "avg_weight_proxy": 199857
+      },
+      {
+        "time_sec": 0.17,
+        "count": 1,
+        "avg_weight_proxy": 198629
+      },
+      {
+        "time_sec": 0.21,
+        "count": 1,
+        "avg_weight_proxy": 196080
+      },
+      {
+        "time_sec": 0.25,
+        "count": 1,
+        "avg_weight_proxy": 194829
+      },
+      {
+        "time_sec": 0.29,
+        "count": 1,
+        "avg_weight_proxy": 193280
+      },
+      {
+        "time_sec": 0.33,
+        "count": 1,
+        "avg_weight_proxy": 191737
+      },
+      {
+        "time_sec": 0.38,
+        "count": 1,
+        "avg_weight_proxy": 190834
+      },
+      {
+        "time_sec": 0.42,
+        "count": 1,
+        "avg_weight_proxy": 190562
+      },
+      {
+        "time_sec": 0.46,
+        "count": 1,
+        "avg_weight_proxy": 189028
+      },
+      {
+        "time_sec": 0.5,
+        "count": 1,
+        "avg_weight_proxy": 187200
+      },
+      {
+        "time_sec": 0.54,
+        "count": 1,
+        "avg_weight_proxy": 184437
+      },
+      {
+        "time_sec": 0.58,
+        "count": 2,
+        "avg_weight_proxy": 123454
+      },
+      {
+        "time_sec": 0.62,
+        "count": 2,
+        "avg_weight_proxy": 128699
+      },
+      {
+        "time_sec": 0.67,
+        "count": 2,
+        "avg_weight_proxy": 134323
+      },
+      {
+        "time_sec": 0.71,
+        "count": 2,
+        "avg_weight_proxy": 141569.5
+      },
+      {
+        "time_sec": 0.75,
+        "count": 2,
+        "avg_weight_proxy": 150375
+      },
+      {
+        "time_sec": 0.79,
+        "count": 2,
+        "avg_weight_proxy": 166733
+      },
+      {
+        "time_sec": 0.83,
+        "count": 2,
+        "avg_weight_proxy": 188745.5
+      },
+      {
+        "time_sec": 0.88,
+        "count": 2,
+        "avg_weight_proxy": 209088
+      },
+      {
+        "time_sec": 0.92,
+        "count": 2,
+        "avg_weight_proxy": 220572
+      },
+      {
+        "time_sec": 0.96,
+        "count": 2,
+        "avg_weight_proxy": 222162.5
+      },
+      {
+        "time_sec": 1,
+        "count": 2,
+        "avg_weight_proxy": 220615
+      },
+      {
+        "time_sec": 1.04,
+        "count": 2,
+        "avg_weight_proxy": 219983
+      },
+      {
+        "time_sec": 1.08,
+        "count": 2,
+        "avg_weight_proxy": 216445.5
+      },
+      {
+        "time_sec": 1.12,
+        "count": 2,
+        "avg_weight_proxy": 215928
+      },
+      {
+        "time_sec": 1.17,
+        "count": 2,
+        "avg_weight_proxy": 211044
+      },
+      {
+        "time_sec": 1.21,
+        "count": 2,
+        "avg_weight_proxy": 210832
+      },
+      {
+        "time_sec": 1.25,
+        "count": 1,
+        "avg_weight_proxy": 281190
+      },
+      {
+        "time_sec": 1.29,
+        "count": 1,
+        "avg_weight_proxy": 274276
+      },
+      {
+        "time_sec": 1.33,
+        "count": 1,
+        "avg_weight_proxy": 270940
+      },
+      {
+        "time_sec": 1.38,
+        "count": 1,
+        "avg_weight_proxy": 255612
+      },
+      {
+        "time_sec": 1.42,
+        "count": 1,
+        "avg_weight_proxy": 238920
+      },
+      {
+        "time_sec": 1.46,
+        "count": 1,
+        "avg_weight_proxy": 235422
+      },
+      {
+        "time_sec": 1.5,
+        "count": 1,
+        "avg_weight_proxy": 246510
+      },
+      {
+        "time_sec": 1.54,
+        "count": 1,
+        "avg_weight_proxy": 260064
+      },
+      {
+        "time_sec": 1.58,
+        "count": 1,
+        "avg_weight_proxy": 282256
+      },
+      {
+        "time_sec": 1.62,
+        "count": 1,
+        "avg_weight_proxy": 308880
+      },
+      {
+        "time_sec": 1.67,
+        "count": 2,
+        "avg_weight_proxy": 205081.5
+      },
+      {
+        "time_sec": 1.71,
+        "count": 2,
+        "avg_weight_proxy": 190368
+      },
+      {
+        "time_sec": 1.75,
+        "count": 2,
+        "avg_weight_proxy": 188474
+      },
+      {
+        "time_sec": 1.79,
+        "count": 2,
+        "avg_weight_proxy": 182523
+      },
+      {
+        "time_sec": 1.83,
+        "count": 2,
+        "avg_weight_proxy": 178385.5
+      },
+      {
+        "time_sec": 1.88,
+        "count": 2,
+        "avg_weight_proxy": 175543.5
+      },
+      {
+        "time_sec": 1.92,
+        "count": 2,
+        "avg_weight_proxy": 171631
+      },
+      {
+        "time_sec": 1.96,
+        "count": 2,
+        "avg_weight_proxy": 170248.5
+      },
+      {
+        "time_sec": 2,
+        "count": 2,
+        "avg_weight_proxy": 169369.5
+      },
+      {
+        "time_sec": 2.04,
+        "count": 2,
+        "avg_weight_proxy": 168768
+      },
+      {
+        "time_sec": 2.08,
+        "count": 2,
+        "avg_weight_proxy": 166721.5
+      },
+      {
+        "time_sec": 2.12,
+        "count": 2,
+        "avg_weight_proxy": 164398
+      },
+      {
+        "time_sec": 2.17,
+        "count": 2,
+        "avg_weight_proxy": 162640.5
+      },
+      {
+        "time_sec": 2.21,
+        "count": 2,
+        "avg_weight_proxy": 161508.5
+      },
+      {
+        "time_sec": 2.25,
+        "count": 2,
+        "avg_weight_proxy": 161356
+      },
+      {
+        "time_sec": 2.29,
+        "count": 2,
+        "avg_weight_proxy": 162093
+      },
+      {
+        "time_sec": 2.33,
+        "count": 2,
+        "avg_weight_proxy": 159392
+      },
+      {
+        "time_sec": 2.38,
+        "count": 2,
+        "avg_weight_proxy": 154751
+      },
+      {
+        "time_sec": 2.42,
+        "count": 1,
+        "avg_weight_proxy": 176276
+      },
+      {
+        "time_sec": 2.46,
+        "count": 2,
+        "avg_weight_proxy": 140538
+      },
+      {
+        "time_sec": 2.5,
+        "count": 2,
+        "avg_weight_proxy": 134135
+      },
+      {
+        "time_sec": 2.54,
+        "count": 2,
+        "avg_weight_proxy": 127359
+      },
+      {
+        "time_sec": 2.58,
+        "count": 2,
+        "avg_weight_proxy": 121513
+      },
+      {
+        "time_sec": 2.62,
+        "count": 2,
+        "avg_weight_proxy": 116327.5
+      },
+      {
+        "time_sec": 2.67,
+        "count": 2,
+        "avg_weight_proxy": 109550
+      },
+      {
+        "time_sec": 2.71,
+        "count": 2,
+        "avg_weight_proxy": 102039
+      },
+      {
+        "time_sec": 2.75,
+        "count": 1,
+        "avg_weight_proxy": 179928
+      },
+      {
+        "time_sec": 2.79,
+        "count": 1,
+        "avg_weight_proxy": 181401
+      },
+      {
+        "time_sec": 2.83,
+        "count": 1,
+        "avg_weight_proxy": 182196
+      },
+      {
+        "time_sec": 2.88,
+        "count": 1,
+        "avg_weight_proxy": 183678
+      },
+      {
+        "time_sec": 2.92,
+        "count": 1,
+        "avg_weight_proxy": 185895
+      },
+      {
+        "time_sec": 2.96,
+        "count": 1,
+        "avg_weight_proxy": 188124
+      },
+      {
+        "time_sec": 3,
+        "count": 1,
+        "avg_weight_proxy": 190365
+      },
+      {
+        "time_sec": 3.04,
+        "count": 1,
+        "avg_weight_proxy": 192618
+      },
+      {
+        "time_sec": 3.08,
+        "count": 1,
+        "avg_weight_proxy": 195409
+      },
+      {
+        "time_sec": 3.12,
+        "count": 1,
+        "avg_weight_proxy": 196944
+      },
+      {
+        "time_sec": 3.17,
+        "count": 1,
+        "avg_weight_proxy": 196724
+      },
+      {
+        "time_sec": 3.21,
+        "count": 1,
+        "avg_weight_proxy": 196762
+      },
+      {
+        "time_sec": 3.25,
+        "count": 1,
+        "avg_weight_proxy": 195804
+      },
+      {
+        "time_sec": 3.29,
+        "count": 1,
+        "avg_weight_proxy": 196080
+      },
+      {
+        "time_sec": 3.33,
+        "count": 1,
+        "avg_weight_proxy": 195584
+      },
+      {
+        "time_sec": 3.38,
+        "count": 1,
+        "avg_weight_proxy": 194557
+      },
+      {
+        "time_sec": 3.42,
+        "count": 1,
+        "avg_weight_proxy": 193000
+      },
+      {
+        "time_sec": 3.46,
+        "count": 1,
+        "avg_weight_proxy": 191919
+      },
+      {
+        "time_sec": 3.5,
+        "count": 1,
+        "avg_weight_proxy": 187980
+      },
+      {
+        "time_sec": 3.54,
+        "count": 1,
+        "avg_weight_proxy": 182439
+      },
+      {
+        "time_sec": 3.58,
+        "count": 1,
+        "avg_weight_proxy": 182028
+      },
+      {
+        "time_sec": 3.62,
+        "count": 1,
+        "avg_weight_proxy": 180910
+      },
+      {
+        "time_sec": 3.67,
+        "count": 1,
+        "avg_weight_proxy": 181368
+      },
+      {
+        "time_sec": 3.71,
+        "count": 2,
+        "avg_weight_proxy": 132806
+      },
+      {
+        "time_sec": 3.75,
+        "count": 2,
+        "avg_weight_proxy": 139796
+      },
+      {
+        "time_sec": 3.79,
+        "count": 2,
+        "avg_weight_proxy": 149079
+      },
+      {
+        "time_sec": 3.83,
+        "count": 2,
+        "avg_weight_proxy": 160312.5
+      },
+      {
+        "time_sec": 3.88,
+        "count": 2,
+        "avg_weight_proxy": 168053
+      },
+      {
+        "time_sec": 3.92,
+        "count": 2,
+        "avg_weight_proxy": 174226.5
+      },
+      {
+        "time_sec": 3.96,
+        "count": 2,
+        "avg_weight_proxy": 180643.5
+      },
+      {
+        "time_sec": 4,
+        "count": 2,
+        "avg_weight_proxy": 194897
+      },
+      {
+        "time_sec": 4.04,
+        "count": 2,
+        "avg_weight_proxy": 198957.5
+      },
+      {
+        "time_sec": 4.08,
+        "count": 2,
+        "avg_weight_proxy": 201219.5
+      },
+      {
+        "time_sec": 4.12,
+        "count": 2,
+        "avg_weight_proxy": 201200
+      },
+      {
+        "time_sec": 4.17,
+        "count": 2,
+        "avg_weight_proxy": 200466
+      },
+      {
+        "time_sec": 4.21,
+        "count": 1,
+        "avg_weight_proxy": 489141
+      },
+      {
+        "time_sec": 4.25,
+        "count": 1,
+        "avg_weight_proxy": 619164
+      },
+      {
+        "time_sec": 4.29,
+        "count": 1,
+        "avg_weight_proxy": 686166
+      },
+      {
+        "time_sec": 4.33,
+        "count": 2,
+        "avg_weight_proxy": 501164
+      },
+      {
+        "time_sec": 4.38,
+        "count": 1,
+        "avg_weight_proxy": 715335
+      },
+      {
+        "time_sec": 4.42,
+        "count": 2,
+        "avg_weight_proxy": 489606
+      },
+      {
+        "time_sec": 4.46,
+        "count": 2,
+        "avg_weight_proxy": 480605.5
+      },
+      {
+        "time_sec": 4.5,
+        "count": 1,
+        "avg_weight_proxy": 716128
+      },
+      {
+        "time_sec": 4.54,
+        "count": 1,
+        "avg_weight_proxy": 690123
+      },
+      {
+        "time_sec": 4.58,
+        "count": 1,
+        "avg_weight_proxy": 677772
+      },
+      {
+        "time_sec": 4.62,
+        "count": 1,
+        "avg_weight_proxy": 667437
+      },
+      {
+        "time_sec": 4.67,
+        "count": 1,
+        "avg_weight_proxy": 675972
+      },
+      {
+        "time_sec": 4.71,
+        "count": 1,
+        "avg_weight_proxy": 671317
+      },
+      {
+        "time_sec": 4.75,
+        "count": 1,
+        "avg_weight_proxy": 672080
+      },
+      {
+        "time_sec": 4.79,
+        "count": 2,
+        "avg_weight_proxy": 568540.5
+      },
+      {
+        "time_sec": 4.83,
+        "count": 3,
+        "avg_weight_proxy": 510357.6666666667
+      },
+      {
+        "time_sec": 4.88,
+        "count": 3,
+        "avg_weight_proxy": 515187.6666666667
+      },
+      {
+        "time_sec": 4.92,
+        "count": 3,
+        "avg_weight_proxy": 533667.3333333334
+      },
+      {
+        "time_sec": 4.96,
+        "count": 2,
+        "avg_weight_proxy": 413780
+      },
+      {
+        "time_sec": 5,
+        "count": 3,
+        "avg_weight_proxy": 503906
+      },
+      {
+        "time_sec": 5.04,
+        "count": 1,
+        "avg_weight_proxy": 708080
+      },
+      {
+        "time_sec": 5.08,
+        "count": 1,
+        "avg_weight_proxy": 699072
+      },
+      {
+        "time_sec": 5.12,
+        "count": 2,
+        "avg_weight_proxy": 562272.5
+      },
+      {
+        "time_sec": 5.17,
+        "count": 3,
+        "avg_weight_proxy": 471069.3333333333
+      },
+      {
+        "time_sec": 5.21,
+        "count": 2,
+        "avg_weight_proxy": 306510
+      },
+      {
+        "time_sec": 5.25,
+        "count": 2,
+        "avg_weight_proxy": 273251.5
+      },
+      {
+        "time_sec": 5.29,
+        "count": 2,
+        "avg_weight_proxy": 246184
+      },
+      {
+        "time_sec": 5.33,
+        "count": 2,
+        "avg_weight_proxy": 222977
+      },
+      {
+        "time_sec": 5.38,
+        "count": 2,
+        "avg_weight_proxy": 210973.5
+      },
+      {
+        "time_sec": 5.42,
+        "count": 2,
+        "avg_weight_proxy": 193125
+      },
+      {
+        "time_sec": 5.46,
+        "count": 2,
+        "avg_weight_proxy": 169379
+      },
+      {
+        "time_sec": 5.5,
+        "count": 2,
+        "avg_weight_proxy": 161182
+      },
+      {
+        "time_sec": 5.54,
+        "count": 1,
+        "avg_weight_proxy": 283528
+      },
+      {
+        "time_sec": 5.58,
+        "count": 1,
+        "avg_weight_proxy": 276315
+      },
+      {
+        "time_sec": 5.62,
+        "count": 1,
+        "avg_weight_proxy": 276176
+      },
+      {
+        "time_sec": 5.67,
+        "count": 1,
+        "avg_weight_proxy": 283075
+      },
+      {
+        "time_sec": 5.71,
+        "count": 1,
+        "avg_weight_proxy": 288648
+      },
+      {
+        "time_sec": 5.75,
+        "count": 1,
+        "avg_weight_proxy": 294700
+      },
+      {
+        "time_sec": 5.79,
+        "count": 1,
+        "avg_weight_proxy": 304668
+      },
+      {
+        "time_sec": 5.83,
+        "count": 1,
+        "avg_weight_proxy": 313960
+      },
+      {
+        "time_sec": 5.88,
+        "count": 1,
+        "avg_weight_proxy": 316230
+      },
+      {
+        "time_sec": 5.92,
+        "count": 1,
+        "avg_weight_proxy": 320766
+      },
+      {
+        "time_sec": 5.96,
+        "count": 1,
+        "avg_weight_proxy": 325982
+      },
+      {
+        "time_sec": 6,
+        "count": 1,
+        "avg_weight_proxy": 325325
+      },
+      {
+        "time_sec": 6.04,
+        "count": 1,
+        "avg_weight_proxy": 327082
+      },
+      {
+        "time_sec": 6.08,
+        "count": 1,
+        "avg_weight_proxy": 325125
+      },
+      {
+        "time_sec": 6.12,
+        "count": 1,
+        "avg_weight_proxy": 326710
+      },
+      {
+        "time_sec": 6.17,
+        "count": 1,
+        "avg_weight_proxy": 329199
+      },
+      {
+        "time_sec": 6.21,
+        "count": 1,
+        "avg_weight_proxy": 326520
+      },
+      {
+        "time_sec": 6.25,
+        "count": 1,
+        "avg_weight_proxy": 325028
+      },
+      {
+        "time_sec": 6.29,
+        "count": 1,
+        "avg_weight_proxy": 330280
+      },
+      {
+        "time_sec": 6.33,
+        "count": 1,
+        "avg_weight_proxy": 335972
+      },
+      {
+        "time_sec": 6.38,
+        "count": 1,
+        "avg_weight_proxy": 344652
+      },
+      {
+        "time_sec": 6.42,
+        "count": 1,
+        "avg_weight_proxy": 351663
+      },
+      {
+        "time_sec": 6.46,
+        "count": 1,
+        "avg_weight_proxy": 355120
+      },
+      {
+        "time_sec": 6.5,
+        "count": 1,
+        "avg_weight_proxy": 356572
+      },
+      {
+        "time_sec": 6.54,
+        "count": 1,
+        "avg_weight_proxy": 359970
+      },
+      {
+        "time_sec": 6.58,
+        "count": 1,
+        "avg_weight_proxy": 359329
+      },
+      {
+        "time_sec": 6.62,
+        "count": 1,
+        "avg_weight_proxy": 359856
+      },
+      {
+        "time_sec": 6.67,
+        "count": 1,
+        "avg_weight_proxy": 359988
+      },
+      {
+        "time_sec": 6.71,
+        "count": 1,
+        "avg_weight_proxy": 360510
+      },
+      {
+        "time_sec": 6.75,
+        "count": 1,
+        "avg_weight_proxy": 360635
+      },
+      {
+        "time_sec": 6.79,
+        "count": 1,
+        "avg_weight_proxy": 360756
+      },
+      {
+        "time_sec": 6.83,
+        "count": 1,
+        "avg_weight_proxy": 361270
+      },
+      {
+        "time_sec": 6.88,
+        "count": 1,
+        "avg_weight_proxy": 363200
+      },
+      {
+        "time_sec": 6.92,
+        "count": 1,
+        "avg_weight_proxy": 363810
+      },
+      {
+        "time_sec": 6.96,
+        "count": 1,
+        "avg_weight_proxy": 367430
+      },
+      {
+        "time_sec": 7,
+        "count": 1,
+        "avg_weight_proxy": 370640
+      },
+      {
+        "time_sec": 7.04,
+        "count": 1,
+        "avg_weight_proxy": 373915
+      },
+      {
+        "time_sec": 7.08,
+        "count": 1,
+        "avg_weight_proxy": 373152
+      },
+      {
+        "time_sec": 7.12,
+        "count": 1,
+        "avg_weight_proxy": 373692
+      },
+      {
+        "time_sec": 7.17,
+        "count": 1,
+        "avg_weight_proxy": 371130
+      },
+      {
+        "time_sec": 7.21,
+        "count": 1,
+        "avg_weight_proxy": 369879
+      },
+      {
+        "time_sec": 7.25,
+        "count": 1,
+        "avg_weight_proxy": 372164
+      },
+      {
+        "time_sec": 7.29,
+        "count": 1,
+        "avg_weight_proxy": 373544
+      },
+      {
+        "time_sec": 7.33,
+        "count": 1,
+        "avg_weight_proxy": 375356
+      },
+      {
+        "time_sec": 7.38,
+        "count": 1,
+        "avg_weight_proxy": 381930
+      },
+      {
+        "time_sec": 7.42,
+        "count": 1,
+        "avg_weight_proxy": 384125
+      },
+      {
+        "time_sec": 7.46,
+        "count": 1,
+        "avg_weight_proxy": 383680
+      },
+      {
+        "time_sec": 7.5,
+        "count": 1,
+        "avg_weight_proxy": 386296
+      },
+      {
+        "time_sec": 7.54,
+        "count": 1,
+        "avg_weight_proxy": 388443
+      },
+      {
+        "time_sec": 7.58,
+        "count": 1,
+        "avg_weight_proxy": 389732
+      },
+      {
+        "time_sec": 7.62,
+        "count": 1,
+        "avg_weight_proxy": 392751
+      },
+      {
+        "time_sec": 7.67,
+        "count": 1,
+        "avg_weight_proxy": 395352
+      },
+      {
+        "time_sec": 7.71,
+        "count": 1,
+        "avg_weight_proxy": 396219
+      },
+      {
+        "time_sec": 7.75,
+        "count": 1,
+        "avg_weight_proxy": 398820
+      },
+      {
+        "time_sec": 7.79,
+        "count": 1,
+        "avg_weight_proxy": 403090
+      },
+      {
+        "time_sec": 7.83,
+        "count": 1,
+        "avg_weight_proxy": 407336
+      },
+      {
+        "time_sec": 7.88,
+        "count": 1,
+        "avg_weight_proxy": 411174
+      },
+      {
+        "time_sec": 7.92,
+        "count": 1,
+        "avg_weight_proxy": 413856
+      },
+      {
+        "time_sec": 7.96,
+        "count": 1,
+        "avg_weight_proxy": 415103
+      },
+      {
+        "time_sec": 8,
+        "count": 1,
+        "avg_weight_proxy": 415966
+      },
+      {
+        "time_sec": 8.04,
+        "count": 1,
+        "avg_weight_proxy": 414141
+      },
+      {
+        "time_sec": 8.08,
+        "count": 1,
+        "avg_weight_proxy": 413948
+      },
+      {
+        "time_sec": 8.12,
+        "count": 1,
+        "avg_weight_proxy": 414426
+      },
+      {
+        "time_sec": 8.17,
+        "count": 1,
+        "avg_weight_proxy": 416730
+      },
+      {
+        "time_sec": 8.21,
+        "count": 1,
+        "avg_weight_proxy": 417294
+      },
+      {
+        "time_sec": 8.25,
+        "count": 1,
+        "avg_weight_proxy": 418250
+      },
+      {
+        "time_sec": 8.29,
+        "count": 1,
+        "avg_weight_proxy": 419684
+      },
+      {
+        "time_sec": 8.33,
+        "count": 1,
+        "avg_weight_proxy": 421520
+      },
+      {
+        "time_sec": 8.38,
+        "count": 1,
+        "avg_weight_proxy": 423761
+      },
+      {
+        "time_sec": 8.42,
+        "count": 1,
+        "avg_weight_proxy": 424160
+      },
+      {
+        "time_sec": 8.46,
+        "count": 1,
+        "avg_weight_proxy": 426404
+      },
+      {
+        "time_sec": 8.5,
+        "count": 1,
+        "avg_weight_proxy": 428255
+      },
+      {
+        "time_sec": 8.54,
+        "count": 1,
+        "avg_weight_proxy": 430195
+      },
+      {
+        "time_sec": 8.58,
+        "count": 1,
+        "avg_weight_proxy": 429870
+      },
+      {
+        "time_sec": 8.62,
+        "count": 1,
+        "avg_weight_proxy": 432285
+      },
+      {
+        "time_sec": 8.67,
+        "count": 1,
+        "avg_weight_proxy": 433734
+      },
+      {
+        "time_sec": 8.71,
+        "count": 1,
+        "avg_weight_proxy": 434282
+      },
+      {
+        "time_sec": 8.75,
+        "count": 1,
+        "avg_weight_proxy": 433862
+      },
+      {
+        "time_sec": 8.79,
+        "count": 1,
+        "avg_weight_proxy": 432480
+      },
+      {
+        "time_sec": 8.83,
+        "count": 1,
+        "avg_weight_proxy": 433016
+      },
+      {
+        "time_sec": 8.88,
+        "count": 1,
+        "avg_weight_proxy": 433068
+      },
+      {
+        "time_sec": 8.92,
+        "count": 1,
+        "avg_weight_proxy": 434502
+      },
+      {
+        "time_sec": 8.96,
+        "count": 1,
+        "avg_weight_proxy": 437280
+      },
+      {
+        "time_sec": 9,
+        "count": 1,
+        "avg_weight_proxy": 440066
+      },
+      {
+        "time_sec": 9.04,
+        "count": 1,
+        "avg_weight_proxy": 445544
+      },
+      {
+        "time_sec": 9.08,
+        "count": 1,
+        "avg_weight_proxy": 446880
+      },
+      {
+        "time_sec": 9.12,
+        "count": 1,
+        "avg_weight_proxy": 446946
+      },
+      {
+        "time_sec": 9.17,
+        "count": 1,
+        "avg_weight_proxy": 448840
+      },
+      {
+        "time_sec": 9.21,
+        "count": 1,
+        "avg_weight_proxy": 448902
+      },
+      {
+        "time_sec": 9.25,
+        "count": 1,
+        "avg_weight_proxy": 448527
+      },
+      {
+        "time_sec": 9.29,
+        "count": 1,
+        "avg_weight_proxy": 448578
+      },
+      {
+        "time_sec": 9.33,
+        "count": 1,
+        "avg_weight_proxy": 449501
+      },
+      {
+        "time_sec": 9.38,
+        "count": 1,
+        "avg_weight_proxy": 450962
+      },
+      {
+        "time_sec": 9.42,
+        "count": 1,
+        "avg_weight_proxy": 450522
+      },
+      {
+        "time_sec": 9.46,
+        "count": 1,
+        "avg_weight_proxy": 452952
+      },
+      {
+        "time_sec": 9.5,
+        "count": 1,
+        "avg_weight_proxy": 449595
+      },
+      {
+        "time_sec": 9.54,
+        "count": 1,
+        "avg_weight_proxy": 452864
+      },
+      {
+        "time_sec": 9.58,
+        "count": 1,
+        "avg_weight_proxy": 452864
+      },
+      {
+        "time_sec": 9.62,
+        "count": 1,
+        "avg_weight_proxy": 451050
+      },
+      {
+        "time_sec": 9.67,
+        "count": 1,
+        "avg_weight_proxy": 448260
+      },
+      {
+        "time_sec": 9.71,
+        "count": 1,
+        "avg_weight_proxy": 454476
+      },
+      {
+        "time_sec": 9.75,
+        "count": 1,
+        "avg_weight_proxy": 457840
+      },
+      {
+        "time_sec": 9.79,
+        "count": 1,
+        "avg_weight_proxy": 454560
+      },
+      {
+        "time_sec": 9.83,
+        "count": 1,
+        "avg_weight_proxy": 452621
+      },
+      {
+        "time_sec": 9.88,
+        "count": 1,
+        "avg_weight_proxy": 450260
+      },
+      {
+        "time_sec": 9.92,
+        "count": 1,
+        "avg_weight_proxy": 449320
+      },
+      {
+        "time_sec": 9.96,
+        "count": 1,
+        "avg_weight_proxy": 454080
+      },
+      {
+        "time_sec": 10,
+        "count": 1,
+        "avg_weight_proxy": 455520
+      },
+      {
+        "time_sec": 10.04,
+        "count": 1,
+        "avg_weight_proxy": 458393
+      },
+      {
+        "time_sec": 10.08,
+        "count": 1,
+        "avg_weight_proxy": 459836
+      },
+      {
+        "time_sec": 10.12,
+        "count": 1,
+        "avg_weight_proxy": 456487
+      },
+      {
+        "time_sec": 10.17,
+        "count": 1,
+        "avg_weight_proxy": 461279
+      },
+      {
+        "time_sec": 10.21,
+        "count": 1,
+        "avg_weight_proxy": 466092
+      },
+      {
+        "time_sec": 10.25,
+        "count": 1,
+        "avg_weight_proxy": 463680
+      },
+      {
+        "time_sec": 10.29,
+        "count": 1,
+        "avg_weight_proxy": 471408
+      },
+      {
+        "time_sec": 10.33,
+        "count": 1,
+        "avg_weight_proxy": 474810
+      },
+      {
+        "time_sec": 10.38,
+        "count": 1,
+        "avg_weight_proxy": 477732
+      },
+      {
+        "time_sec": 10.42,
+        "count": 1,
+        "avg_weight_proxy": 479196
+      },
+      {
+        "time_sec": 10.46,
+        "count": 1,
+        "avg_weight_proxy": 481156
+      },
+      {
+        "time_sec": 10.5,
+        "count": 1,
+        "avg_weight_proxy": 483120
+      },
+      {
+        "time_sec": 10.54,
+        "count": 1,
+        "avg_weight_proxy": 484605
+      },
+      {
+        "time_sec": 10.58,
+        "count": 1,
+        "avg_weight_proxy": 487072
+      },
+      {
+        "time_sec": 10.62,
+        "count": 1,
+        "avg_weight_proxy": 488551
+      },
+      {
+        "time_sec": 10.67,
+        "count": 1,
+        "avg_weight_proxy": 489534
+      },
+      {
+        "time_sec": 10.71,
+        "count": 1,
+        "avg_weight_proxy": 489036
+      },
+      {
+        "time_sec": 10.75,
+        "count": 1,
+        "avg_weight_proxy": 495976
+      },
+      {
+        "time_sec": 10.79,
+        "count": 1,
+        "avg_weight_proxy": 500455
+      },
+      {
+        "time_sec": 10.83,
+        "count": 1,
+        "avg_weight_proxy": 500976
+      },
+      {
+        "time_sec": 10.88,
+        "count": 1,
+        "avg_weight_proxy": 500485
+      },
+      {
+        "time_sec": 10.92,
+        "count": 1,
+        "avg_weight_proxy": 501491
+      },
+      {
+        "time_sec": 10.96,
+        "count": 1,
+        "avg_weight_proxy": 501970
+      },
+      {
+        "time_sec": 11,
+        "count": 1,
+        "avg_weight_proxy": 506964
+      },
+      {
+        "time_sec": 11.04,
+        "count": 1,
+        "avg_weight_proxy": 512000
+      }
+    ],
+    "unique_birds_tracked": 4,
+    "tracks_sample": {
+      "1": {
+        "first_seen_frame": 0,
+        "confidence": 0.9214801788330078,
+        "sample_box": [
+          474,
+          352,
+          1131,
+          656
+        ]
+      },
+      "2": {
+        "first_seen_frame": 14,
+        "confidence": 0.6894718408584595,
+        "sample_box": [
+          1025,
+          6,
+          1482,
+          146
+        ]
+      },
+      "3": {
+        "first_seen_frame": 89,
+        "confidence": 0.6258893013000488,
+        "sample_box": [
+          1608,
+          693,
+          1920,
+          959
+        ]
+      },
+      "5": {
+        "first_seen_frame": 116,
+        "confidence": 0.6801078915596008,
+        "sample_box": [
+          279,
+          168,
+          1182,
+          543
+        ]
+      }
+    },
+    "weight_summary": "Values are pixel area (Width * Height). Calibration required for grams."
+  }
+}
